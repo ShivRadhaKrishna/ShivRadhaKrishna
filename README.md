@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shivam Yadav 
-**A passionate Full Stack Devoloper \\**
+**A passionate Full Stack Devoloper /**
 
 Email Me 👉 ✉️ **kamadhwajyadav@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
