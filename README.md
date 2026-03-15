@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shivam Yadav 
-**A passionate Full Stack Devoloper || Java || Spring Boot || React || SQL**
+**A passionate Full Stack Devoloper || Java || Spring Boot || React || SQL||**
 **Crafting responsive and scalable web platforms**
 
 Email Me 👉 ✉️ **kamadhwajyadav@gmail.com** For Collaboration/Project or Anything Else. 😊😊
