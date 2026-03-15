@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Shivam Yadav 
-**A passionate Full Stack Devoloper /**
+**A passionate Full Stack Devoloper || Java || Spring Boot || React || SQL**
+**Crafting responsive and scalable web platforms**
 
 Email Me 👉 ✉️ **kamadhwajyadav@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -11,6 +12,8 @@ Email Me 👉 ✉️ **kamadhwajyadav@gmail.com** For Collaboration/Project or A
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a FreeLancer. 😊😊
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shivam.yadav.749390) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivamydv11.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shivam-yadav-2696292a1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShivamChaudry95) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sc8990196@gmail.com) 
 
